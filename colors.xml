@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary app colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Material Design colors -->
+    <color name="red">#F44336</color>        <!-- Material Red 500 -->
+    <color name="yellow">#FFEB3B</color>     <!-- Material Yellow 500 -->
+    <color name="purple">#9C27B0</color>     <!-- Material Purple 500 -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="teal_200">#03DAC5</color>   <!-- Added: Material Teal 200 -->
+    <color name="gray">#9E9E9E</color>       <!-- Added: Material Gray 500 -->
+
+    <!-- Backgrounds and input fields -->
+    <color name="material_dynamic_neutral90">#F5F5F5</color>
+    <color name="material_dynamic_neutral30">#4A4A4A</color>
+
+    <!-- Link color -->
+    <color name="link_color">#673AB7</color>
+</resources>
+

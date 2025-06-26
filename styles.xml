@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StyledButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/rounded_button</item> <!-- custom background -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">108dp</item>
+        <item name="android:layout_height">108dp</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:importantForAccessibility">yes</item>
+    </style>
+</resources>
